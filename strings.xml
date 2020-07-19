@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClimaTempo</string>
+    <string name="btnCalcula">Calcular</string>
+    <string name="lblTempe">Digite uma cidade para saber a temperatura: </string>
+    <string name="txtTempe">Cidade</string>
+    <string name="btnVoltar">Voltar </string>
+    <string name="lblClima">Clima: </string>
+    <string name="lblTemperatura">Temperatura: </string>
+    <string name="txtTemperatura"> </string>
+    <string name="str_empty" />
+</resources>
